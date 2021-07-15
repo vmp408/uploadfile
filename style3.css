@@ -1,0 +1,86 @@
+form {
+  width: 30%;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #555;
+}
+input {
+  width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #18a0d0;
+  color: #fff;
+}
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 10px auto;
+}
+th,
+td {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+}
+
+.mar-top10{
+  margin-top: 10px;
+}
+
+.cenetr-top-100{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.cenetr-top-50{
+  text-align: center;
+  padding-top: 50px;
+}
+
+p{
+  display: inline-block;
+  font-size: 20px;
+  margin: 5px 10px;
+}
+
+.txt_center{
+  text-align: center;
+}
+
+.about_us{
+      padding: 20px 50px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.title-center{
+  text-align: center;
+}
+
+.span-block{
+  display: block;
+  padding: 3px;
+  color: #18a0d0;
+}
+
+.span-title{
+  display: block;
+  padding: 5px;
+  color: #9218d0;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.span-sub-title{
+  display: block;
+  padding: 5px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+}
